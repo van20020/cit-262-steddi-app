@@ -1,5 +1,6 @@
 const hello = () => {
-    console.log("Hello")
+    return "hello"
 }
+helloworld()
 
 export default hello;
